@@ -4,14 +4,14 @@ public class rpg {
     public static void main(String[] args) {
         Scanner insert = new Scanner(System.in);
 
-        System.out.print("##--      DORK SOULS     --##\n\n");
-        System.out.print("|-----------------------------|\n");
-        System.out.print("| Opção 1 - Jogar             |\n");
-        System.out.print("| Opção 2 -           |\n");
-        System.out.print("| Opção 3 - Produtos          |\n");
-        System.out.print("| Opção 4 - Sair              |\n");
-        System.out.print("|-----------------------------|\n");
-        System.out.print("Digite uma opção: ");
+        System.out.print("##--     DORK SOULS     --##\n\n");
+        System.out.print("|----------------------------|\n");
+        System.out.print("|           Jogar            |\n");
+        System.out.print("|           Opções           |\n");
+        System.out.print("|           Creditos         |\n");
+        System.out.print("|           Link             |\n");
+        System.out.print("|----------------------------|\n");
+        System.out.print("");
 
         int opcao = insert.nextInt();
 
